@@ -1,8 +1,10 @@
-Website "Aplikasi Izin"
+Oleh : Bayu Saputra
+email : sbayu8378@gmail.com
 
 ## About
 
-Sebuah aplikasi 
+Website "aplikasi izin" adalah website perkantoran yang digunakan untuk membantu staff kantor untuk mengajukan izin keluar kantor.
+
 ## Learning Laravel
 
 Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
